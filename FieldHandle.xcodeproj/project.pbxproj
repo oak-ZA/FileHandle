@@ -16,6 +16,7 @@
 		A65043F12354621D00523910 /* FieldHandleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A65043F02354621D00523910 /* FieldHandleTests.m */; };
 		A65043FC2354621D00523910 /* FieldHandleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A65043FB2354621D00523910 /* FieldHandleUITests.m */; };
 		A650440B2354622B00523910 /* YeFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A65044092354622B00523910 /* YeFileManager.m */; };
+		A650440E2354648600523910 /* UIImage+YEImage.m in Sources */ = {isa = PBXBuildFile; fileRef = A650440D2354648600523910 /* UIImage+YEImage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		A65043FD2354621D00523910 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A65044092354622B00523910 /* YeFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YeFileManager.m; sourceTree = "<group>"; };
 		A650440A2354622B00523910 /* YeFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YeFileManager.h; sourceTree = "<group>"; };
+		A650440C2354648600523910 /* UIImage+YEImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+YEImage.h"; sourceTree = "<group>"; };
+		A650440D2354648600523910 /* UIImage+YEImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+YEImage.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				A65043DB2354621900523910 /* ViewController.m */,
 				A650440A2354622B00523910 /* YeFileManager.h */,
 				A65044092354622B00523910 /* YeFileManager.m */,
+				A650440C2354648600523910 /* UIImage+YEImage.h */,
+				A650440D2354648600523910 /* UIImage+YEImage.m */,
 				A65043DD2354621900523910 /* Main.storyboard */,
 				A65043E02354621D00523910 /* Assets.xcassets */,
 				A65043E22354621D00523910 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A650440E2354648600523910 /* UIImage+YEImage.m in Sources */,
 				A65043DC2354621900523910 /* ViewController.m in Sources */,
 				A65043E72354621D00523910 /* main.m in Sources */,
 				A65043D92354621900523910 /* AppDelegate.m in Sources */,
