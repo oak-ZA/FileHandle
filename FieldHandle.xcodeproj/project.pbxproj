@@ -17,6 +17,7 @@
 		A65043FC2354621D00523910 /* FieldHandleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A65043FB2354621D00523910 /* FieldHandleUITests.m */; };
 		A650440B2354622B00523910 /* YeFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A65044092354622B00523910 /* YeFileManager.m */; };
 		A650440E2354648600523910 /* UIImage+YEImage.m in Sources */ = {isa = PBXBuildFile; fileRef = A650440D2354648600523910 /* UIImage+YEImage.m */; };
+		A65044102354687700523910 /* xiaofeifang_bg@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A650440F2354687600523910 /* xiaofeifang_bg@2x.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		A650440A2354622B00523910 /* YeFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YeFileManager.h; sourceTree = "<group>"; };
 		A650440C2354648600523910 /* UIImage+YEImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+YEImage.h"; sourceTree = "<group>"; };
 		A650440D2354648600523910 /* UIImage+YEImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+YEImage.m"; sourceTree = "<group>"; };
+		A650440F2354687600523910 /* xiaofeifang_bg@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "xiaofeifang_bg@2x.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		A65043D62354621900523910 /* FieldHandle */ = {
 			isa = PBXGroup;
 			children = (
+				A650440F2354687600523910 /* xiaofeifang_bg@2x.jpg */,
 				A65043D72354621900523910 /* AppDelegate.h */,
 				A65043D82354621900523910 /* AppDelegate.m */,
 				A65043DA2354621900523910 /* ViewController.h */,
@@ -248,6 +251,7 @@
 				A65043E42354621D00523910 /* LaunchScreen.storyboard in Resources */,
 				A65043E12354621D00523910 /* Assets.xcassets in Resources */,
 				A65043DF2354621900523910 /* Main.storyboard in Resources */,
+				A65044102354687700523910 /* xiaofeifang_bg@2x.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
